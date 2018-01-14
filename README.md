@@ -5,3 +5,4 @@ I'm here to learn more about coding so that I can use this new skill to make add
 <div class="keys">
   <div data-key="65" class="key">
     <kbd>A</kbd>
+    <audio data-key="65" src="sounds/clap.wav"></audio>
